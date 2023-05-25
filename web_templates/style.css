@@ -1,0 +1,115 @@
+/* LOGO */
+.logo {
+    font-family: 'Cascadia Code SemiBold';
+    font-size:75px;
+    margin-left: 60px;
+}
+
+
+/* Menu */
+.Menu {
+    font-family: 'Cascadia Code';
+    font-size: 25px;
+}
+
+ul li {
+    list-style: none;
+}
+
+.Menu ul li{
+    float: left; 
+    position: relative;
+}
+
+.Menu ul li a{
+    width: 250px;
+    display: inline-block;
+    text-align: center;
+    line-height: 75px;
+    
+}
+
+.MenuSub{
+    position: absolute;
+    display: none;
+}
+
+/* interactive events */
+.Menu li:hover{
+    border-style: solid;
+    border-width: 8px 0px 0px 0px;
+    border-top-color: rgb(98, 98, 98);
+}
+
+.Menu li:hover .MenuSub{
+    display: block;
+    cursor: pointer;
+}
+
+.Menu ul li ul li:hover{
+    border-style: none;
+    background-color:gainsboro;
+    color: darkgray;
+    cursor: pointer;
+}
+
+
+/* search bar */
+.search-box{
+    position:absolute;
+    height: 50px;
+    width: 600px;
+    margin-top: 12px;
+    margin-left: 600px;
+    background-color:rgb(248, 248, 248);
+}
+
+.search-button{
+    position:absolute;
+    height: 50px;
+    width: 100px;
+    margin-top: 12px;
+    margin-left: 1200px;
+}
+
+/* image items */
+.display-items > ul{
+    /* background-color: rgb(15, 213, 65); */
+    height: 300px;
+    width: 1500px;
+    margin-left: 100px;
+}
+
+.display-items > ul > li{
+    /* background-color: rgb(210, 229, 33); */
+    height: 350px;
+    width: 300px;
+    float: left;
+    margin-left: 50px;
+}
+/* image area */
+.display-items > ul > li > img{
+    border-radius: 7%;
+    /* background-color: rgb(194, 126, 24); */
+    height: 300px;
+    width: 300px;
+    margin: 0;
+}
+
+.display-items > ul > li > img:hover{
+    cursor:pointer;
+    filter: brightness(75%)
+}
+
+
+/* text area */
+.display-items > ul > li > div{
+    height: 50px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.display-items > ul > li > div > span{
+    font-family: 'Cascadia Code';
+    font-size: 20px;
+}
