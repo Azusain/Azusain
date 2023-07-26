@@ -1,4 +1,4 @@
-👨‍🎓 Just call me **Tommy**, I am still a friendly college student.  
+👨‍🎓 Just call me **Tommy**, I am still a college student.  
 
 ♥️ I love **Linux** 🖥️ And **Net Programming** 🕸️  
 
