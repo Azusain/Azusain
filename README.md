@@ -1,7 +1,5 @@
 👨‍🎓 Hi, I am **Tommy**!
 
-♥️ I love **Linux** 🖥️ And **Network Programming** 🕸️  
-
 🧭 My Commonly used programming languages:   ![CXX](https://img.shields.io/badge/C/C++-green?logo=cplusplus&labelColor=black), ![PYTHON](https://img.shields.io/badge/Python-blue?logo=python&labelColor=black), ![JavaScript](https://img.shields.io/badge/JavaScript-orange?logo=javascript&labelColor=black)
 
 📖 Recently studying: React.js and Unix Programming  
