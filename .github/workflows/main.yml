@@ -16,7 +16,9 @@ jobs:
           node-version: '14'
 
       - name: Install dependencies
-        run: npm install
+        run: |
+          npm install
+          npm install --save-dev @types/node
 
       - name: compile ts file
         run: npx tsc wakaapi.ts
