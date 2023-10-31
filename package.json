@@ -1,0 +1,15 @@
+{
+  "name": "wakaapi",
+  "version": "1.0.0",
+  "description": "```\r Arch Linux 6.5.7-arch1-1 (tty1)\r archlinux login: root\r Password: _",
+  "main": "wakaapi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment-timezone": "^0.5.43"
+  }
+}
