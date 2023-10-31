@@ -89,8 +89,7 @@ Promise.all([p0, p1, p2]).then(() => {
             const hrs_field = top_3[i].hrs
 
             top_lang_field += 
-                `${' '.repeat(12)}${lang_name_field} 
-                ${progress_bar_field} ${hrs_field}${i != 2 ?'\n\n': '\n'}`
+                `${' '.repeat(12)}${lang_name_field} ${progress_bar_field} ${hrs_field}${i != 2 ?'\n\n': '\n'}`
         }
 
         data = data.replace('${TOP_3_LANGUAGES}', top_lang_field)
