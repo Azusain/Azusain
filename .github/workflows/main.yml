@@ -16,10 +16,13 @@ jobs:
           node-version: '14'
 
       - name: Install dependencies
-        run: npm ci
+        run: npm install
 
-      - name: Run TypeScript code
-        run: npx ts-node wakaapi.ts
+      - name: compile ts file
+        run: npx tsc wakaapi.ts
+
+      - name: Run compiled code
+        run: node wakaapi.js
         env:
           API_KEY: ${{ secrets.WAKA_API_KEY }}
 
