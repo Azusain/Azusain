@@ -1,6 +1,6 @@
 import * as moment from "moment-timezone"
 import * as fs from 'fs'
-import * as fetch from 'node-fetch'
+import fetch from 'node-fetch'
 
 // refer to wakatime api documentation when needed: https://wakatime.com/developers
 const resource_url_prefix = 'https://wakatime.com/api/v1/users/current'
