@@ -22,7 +22,7 @@ poor unix programming skills :XD
 
 [root@archlinux ~]# ./wakatime_stat
 
-Wakatime Status (Last Update: 2023-11-01, 01:19:21)
+Wakatime Status (Last Update: 2023-11-01, 01:21:57)
 
 - time spent with wakatime:
             451 hrs 53 mins
@@ -32,10 +32,10 @@ Wakatime Status (Last Update: 2023-11-01, 01:19:21)
 
 - top 3 languages:
 
-            C++                        |==================================| 155 hrs 8 mins
+            C++        |==================================| 155 hrs 8 mins
 
-            TypeScript                 |==================| 83 hrs 11 mins
+            TypeScript |==================| 83 hrs 11 mins
 
-            Python                     |================| 77 hrs 16 mins
+            Python     |================| 77 hrs 16 mins
 
 ```
