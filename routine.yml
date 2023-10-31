@@ -1,10 +1,11 @@
-name: Scheduled Workflow
+name: Update README
+
 on:
   schedule:
-    - cron: '0 * * * *'  
+    - cron: '0 0 * * *'  # 这表示每天凌晨12点运行
 
 jobs:
-  build:
+  update-readme:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -18,7 +19,15 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Run script
-        run: node wakaapi.js  
+      - name: Run TypeScript code
+        run: npx ts-node your-script.ts
         env:
-          API_KEY: ${{ secrets.API_KEY }}  
+          API_KEY: ${{ secrets.API_KEY }}
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update README with latest results" || exit 0  # 如果没有任何更改，则退出
+          git push
