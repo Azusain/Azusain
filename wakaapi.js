@@ -2,6 +2,8 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 var moment = require("moment-timezone");
 var fs = require("fs");
+const fetch = require('node-fetch')
+
 // refer to wakatime api documentation when needed: https://wakatime.com/developers
 var resource_url_prefix = 'https://wakatime.com/api/v1/users/current';
 // prepare base64-encoded api_key for authntication
