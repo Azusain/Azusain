@@ -16,7 +16,7 @@ jobs:
           node-version: '18'
 
       - name: Install dependencies
-        run: npm install moment-timezone node-fetch
+        run: npm install moment-timezone node-fetch@2
       
       - name: Run compiled code
         run: node wakaapi.js
