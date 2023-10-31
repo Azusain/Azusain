@@ -66,7 +66,7 @@ Promise.all([p0, p1, p2]).then(function () {
             var progress_bar_field = "|".concat('='.repeat(top_3[i].progress_bar_len), "|");
             var hrs_field = top_3[i].hrs;
             top_lang_field +=
-                "".concat(' '.repeat(12)).concat(lang_name_field, "                 ").concat(progress_bar_field, " ").concat(hrs_field).concat(i != 2 ? '\n\n' : '\n');
+                "".concat(' '.repeat(12)).concat(lang_name_field, " ").concat(progress_bar_field, " ").concat(hrs_field).concat(i != 2 ? '\n\n' : '\n');
         }
         data = data.replace('${TOP_3_LANGUAGES}', top_lang_field);
         fs.writeFile('./README.md', data, function (err) { });
