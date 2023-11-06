@@ -22,13 +22,13 @@ poor unix programming skills :XD
 
 [root@archlinux ~]# ./wakatime_stat
 
-Wakatime Status (Last Update: 2023-11-06, 12:17:03)
+Wakatime Status (Last Update: 2023-11-07, 00:18:48)
 
 - time spent with wakatime:
             454 hrs 18 mins
 
 - coding time over the Last 7 Days：
-            11 hrs 46 mins
+            3 hrs 14 mins
 
 - top 3 languages:
 
