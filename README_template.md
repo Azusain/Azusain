@@ -17,9 +17,6 @@ check out my blog if you're also interested in the fields above:
 
                       http://azusaing.top
 
-this website is still under contruction and crashes several times a months due to my
-poor unix programming skills :XD
-
 [root@archlinux ~]# ./wakatime_stat
 
 Wakatime Status (Last Update: ${UPDATE_TIME})
