@@ -17,22 +17,19 @@ check out my blog if you're also interested in the fields above:
 
                       http://azusaing.top
 
-this website is still under contruction and crashes several times a months due to my
-poor unix programming skills :XD
-
 [root@archlinux ~]# ./wakatime_stat
 
-Wakatime Status (Last Update: 2023-11-09, 00:18:08)
+Wakatime Status (Last Update: 2023-11-09, 12:16:31)
 
 - time spent with wakatime:
-            454 hrs 18 mins
+            458 hrs 4 mins
 
 - coding time over the Last 7 Days：
-            3 hrs 52 mins
+            4 hrs 44 mins
 
 - top 3 languages:
 
-            C++        |==================================| 155 hrs 8 mins
+            C++        |==================================| 155 hrs 33 mins
 
             TypeScript |==================| 83 hrs 43 mins
 
