@@ -15,7 +15,7 @@ Password: _
 hi, I am Tommy, a programmer who studies unix, deep learning and web development...
 check out my blog if you're also interested in the fields above:
 
-                      http://azusaing.top
+                      https://azusaing.top
 
 [root@archlinux ~]# ./wakatime_stat
 
