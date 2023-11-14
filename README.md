@@ -15,23 +15,23 @@ Password: _
 hi, I am Tommy, a programmer who studies unix, deep learning and web development...
 check out my blog if you're also interested in the fields above:
 
-                      http://azusaing.top
+                      https://azusaing.top
 
 [root@archlinux ~]# ./wakatime_stat
 
-Wakatime Status (Last Update: 2023-11-14, 00:18:30)
+Wakatime Status (Last Update: 2023-11-14, 12:16:27)
 
 - time spent with wakatime:
-            469 hrs 42 mins
+            473 hrs 44 mins
 
 - coding time over the Last 7 Days：
-            18 hrs 1 min
+            19 hrs 26 mins
 
 - top 3 languages:
 
-            C++        |==================================| 155 hrs 33 mins
+            C++        |==================================| 156 hrs 1 min
 
-            Python     |===================| 89 hrs 16 mins
+            Python     |===================| 90 hrs 37 mins
 
             TypeScript |==================| 83 hrs 43 mins
 
