@@ -19,13 +19,13 @@ check out my blog if you're also interested in the fields above:
 
 [root@archlinux ~]# ./wakatime_stat
 
-Wakatime Status (Last Update: 2024-05-29, 12:19:31)
+Wakatime Status (Last Update: 2024-05-30, 00:19:09)
 
 - time spent with wakatime:
-            1,051 hrs 59 mins
+            1,050 hrs 32 mins
 
 - coding time over the Last 7 Days：
-            31 hrs 8 mins
+            29 hrs 24 mins
 
 - top 3 languages:
 
