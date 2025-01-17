@@ -19,10 +19,10 @@ check out my blog if you're also interested in the fields above:
 
 [root@archlinux ~]# ./wakatime_stat
 
-Wakatime Status (Last Update: 2025-01-17, 00:20:58)
+Wakatime Status (Last Update: 2025-01-17, 12:21:02)
 
 - time spent with wakatime:
-            1,471 hrs 22 mins
+            1,475 hrs 54 mins
 
 - coding time over the Last 7 Days：
             19 hrs 58 mins
@@ -31,7 +31,7 @@ Wakatime Status (Last Update: 2025-01-17, 00:20:58)
 
             Go     |==================================| 475 hrs 19 mins
 
-            C++    |=========================| 360 hrs 9 mins
+            C++    |==========================| 363 hrs 50 mins
 
             Python |===========| 159 hrs 8 mins
 
