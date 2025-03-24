@@ -12,20 +12,23 @@ Password: _
 
 [root@archlinux ~]# cat Tommy.txt
 
-hi, I am Tommy, a programmer who studies unix, deep learning and web development...
-check out my blog if you're also interested in the fields above:
+Hi, I am azusayn, a mixer and programmer studying game audio and mixing heavy music. 
+Check out my blog if you're also interested in the fields above:
 
-                      https://azusaing.top
+                      https://azusaing.site (under maintenance)
+
+SoundCloud:
+                      https://soundcloud.com/azusa-nakano-509896816
 
 [root@archlinux ~]# ./wakatime_stat
 
-Wakatime Status (Last Update: 2025-03-24, 12:22:36)
+Wakatime Status (Last Update: 2025-03-25, 00:25:02)
 
 - time spent with wakatime:
             1,571 hrs 48 mins
 
 - coding time over the Last 7 Days：
-            25 hrs
+            22 hrs 3 mins
 
 - top 3 languages:
 
