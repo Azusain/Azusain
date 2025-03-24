@@ -12,10 +12,13 @@ Password: _
 
 [root@archlinux ~]# cat Tommy.txt
 
-hi, I am Tommy, a programmer who studies unix, deep learning and web development...
-check out my blog if you're also interested in the fields above:
+Hi, I am azusayn, a mixer and programmer studying game audio and mixing heavy music. 
+Check out my blog if you're also interested in the fields above:
 
                       https://azusaing.site (under maintenance)
+
+SoundCloud:
+                      https://soundcloud.com/azusa-nakano-509896816
 
 [root@archlinux ~]# ./wakatime_stat
 
