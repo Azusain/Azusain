@@ -22,10 +22,10 @@ SoundCloud:
 
 [root@archlinux ~]# ./wakatime_stat
 
-Wakatime Status (Last Update: 2025-05-16, 00:25:46)
+Wakatime Status (Last Update: 2025-05-16, 12:24:54)
 
 - time spent with wakatime:
-            1,679 hrs
+            1,679 hrs 20 mins
 
 - coding time over the Last 7 Days：
             3 hrs 14 mins
@@ -34,7 +34,7 @@ Wakatime Status (Last Update: 2025-05-16, 00:25:46)
 
             Go     |==================================| 504 hrs 48 mins
 
-            C++    |=================================| 497 hrs 47 mins
+            C++    |=================================| 498 hrs
 
             Python |===========| 167 hrs 6 mins
 
