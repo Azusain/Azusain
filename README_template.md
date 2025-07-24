@@ -10,12 +10,12 @@ Password: _
 /_/   \_\/___|\__,_|___/\__,_|_|_| |_|\__, |
                                       |___/
 
-[root@archlinux ~]# cat Tommy.txt
+[root@archlinux ~]# cat Azusayn.txt
 
-Hi, I am azusayn, a mixer and programmer studying game audio and mixing heavy music. 
-Check out my blog if you're also interested in the fields above:
+Hi, I am azusayn - a アニメ音楽 composer and coder. 
+Coding Blog:
 
-                      https://azusaing.site (under maintenance)
+                      [https://azusayn.site](http://8.134.146.84:8080/)
 
 SoundCloud:
                       https://soundcloud.com/azusa-nakano-509896816
