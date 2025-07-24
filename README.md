@@ -10,25 +10,25 @@ Password: _
 /_/   \_\/___|\__,_|___/\__,_|_|_| |_|\__, |
                                       |___/
 
-[root@archlinux ~]# cat Tommy.txt
+[root@archlinux ~]# cat Azusayn.txt
 
-Hi, I am azusayn, a mixer and programmer studying game audio and mixing heavy music. 
-Check out my blog if you're also interested in the fields above:
+Hi, I am azusayn - a アニメ音楽 composer and coder. 
+Coding Blog:
 
-                      https://azusaing.site (under maintenance)
+                      [https://azusayn.site](http://8.134.146.84:8080/)
 
 SoundCloud:
                       https://soundcloud.com/azusa-nakano-509896816
 
 [root@archlinux ~]# ./wakatime_stat
 
-Wakatime Status (Last Update: 2025-07-24, 12:39:48)
+Wakatime Status (Last Update: 2025-07-25, 00:25:20)
 
 - time spent with wakatime:
             1,687 hrs 59 mins
 
 - coding time over the Last 7 Days：
-            3 hrs 46 mins
+            4 hrs 7 mins
 
 - top 3 languages:
 
