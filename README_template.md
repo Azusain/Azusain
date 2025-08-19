@@ -15,7 +15,7 @@ Password: _
 Hi, I am azusayn - a アニメ音楽 composer and coder. 
 Coding Blog:
 
-                      [https://azusayn.site](http://8.134.146.84:8080/)
+                      https://azusayn.site
 
 SoundCloud:
                       https://soundcloud.com/azusa-nakano-509896816
@@ -34,3 +34,4 @@ Wakatime Status (Last Update: ${UPDATE_TIME})
 
 ${TOP_3_LANGUAGES}
 ```
+
