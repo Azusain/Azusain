@@ -15,20 +15,20 @@ Password: _
 Hi, I am azusayn - a アニメ音楽 composer and coder. 
 Coding Blog:
 
-                      [https://azusayn.site](http://8.134.146.84:8080/)
+                      https://azusayn.site
 
 SoundCloud:
                       https://soundcloud.com/azusa-nakano-509896816
 
 [root@archlinux ~]# ./wakatime_stat
 
-Wakatime Status (Last Update: 2025-08-19, 12:23:33)
+Wakatime Status (Last Update: 2025-08-20, 00:25:34)
 
 - time spent with wakatime:
-            1,754 hrs 52 mins
+            1,754 hrs 50 mins
 
 - coding time over the Last 7 Days：
-            21 hrs 30 mins
+            21 hrs 10 mins
 
 - top 3 languages:
 
@@ -39,3 +39,4 @@ Wakatime Status (Last Update: 2025-08-19, 12:23:33)
             Python |============| 190 hrs 14 mins
 
 ```
+
