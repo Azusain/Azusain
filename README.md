@@ -22,13 +22,13 @@ SoundCloud:
 
 [root@archlinux ~]# ./wakatime_stat
 
-Wakatime Status (Last Update: 2025-09-17, 12:22:42)
+Wakatime Status (Last Update: 2025-09-18, 00:24:28)
 
 - time spent with wakatime:
-            1,841 hrs 44 mins
+            1,841 hrs 28 mins
 
 - coding time over the Last 7 Days：
-            12 hrs 58 mins
+            9 hrs 44 mins
 
 - top 3 languages:
 
