@@ -12,7 +12,6 @@ Password: _
 
 [root@archlinux ~]# cat Azusayn.txt
 
-Hi, I am azusayn - a アニメ音楽 composer and coder. 
 Coding Blog:
 
                       https://azusayn.site
@@ -34,4 +33,5 @@ Wakatime Status (Last Update: ${UPDATE_TIME})
 
 ${TOP_3_LANGUAGES}
 ```
+
 
