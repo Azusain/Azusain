@@ -24,3 +24,5 @@ Wakatime Status (Last Update: ${UPDATE_TIME})
 
 ${TOP_3_LANGUAGES}
 ```
+
+
