@@ -8,16 +8,7 @@ Password: _
   / _ \  |_  / | | / __|/ _` | | | | '_ \ 
  / ___ \  / /| |_| \__ \ (_| | |_| | | | |
 /_/   \_\/___|\__,_|___/\__,_|\__, |_| |_|
-                              |___/      
-
-[root@archlinux ~]# cat Azusayn.txt
-
-Coding Blog:
-
-                      https://azusayn.site
-
-SoundCloud:
-                      https://soundcloud.com/azusa-nakano-509896816
+                              |___/
 
 [root@archlinux ~]# ./wakatime_stat
 
