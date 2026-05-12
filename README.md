@@ -12,13 +12,13 @@ Password: _
 
 [root@archlinux ~]# ./wakatime_stat
 
-Wakatime Status (Last Update: 2026-05-12, 14:37:31)
+Wakatime Status (Last Update: 2026-05-13, 01:59:06)
 
 - time spent with wakatime:
-            2,212 hrs 27 mins
+            2,212 hrs 26 mins
 
 - coding time over the Last 7 Days：
-            15 hrs 21 mins
+            12 hrs 17 mins
 
 - top 3 languages:
 
